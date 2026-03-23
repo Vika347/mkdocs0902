@@ -1,17 +1,42 @@
-# Welcome to MkDocs
+# Портфолио лабораторных работ
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Добро пожаловать на мой сайт-портфолио
 
-## Commands
+---
+## О проекте
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Этот сайт создан в рамках курса по веб-разработке и содержит отчеты по  выполненным лабораторным работам.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+## Содержание:
+
+### Об авторе:
+[Перейти к информации об авторе](about.md)
+
+### Лабораторные работы:
+
+- [Лабораторная работа №1](labs/lab1.md) — Создание статического сайта на MkDocs
+- [Лабораторная работа №2](labs/lab2.md) — Numpy
+- [Лабораторная работа №3](labs/lab3.md) — Sourcecraft
+- [Лабораторная работа №4](labs/lab4.md) — Классификация
+- [Лабораторная работа №5](labs/lab5.md) — Регрессия
+
+---
+
+## Технологии
+
+- MkDocs
+- Material for MkDocs
+- Git
+- GitHub Pages
+- Markdown
+
+---
+
+## Ссылки
+
+- **Репозиторий:** [github.com/Vika347/mkdocs0902](https://github.com/Vika347/mkdocs0902)
+- **Сайт:** [Vika347.github.io/mkdocs0902](https://Vika347.github.io/mkdocs0902)
+
