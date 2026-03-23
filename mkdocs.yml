@@ -1,4 +1,4 @@
-docs_dir: source
+docs_dir: source # Где искать исходные .md файлы
 site_name: Портфолио лабораторных работ
 site_description: Сайт-портфолио студента
 site_author: Родина Виктория
@@ -27,13 +27,12 @@ theme:
 
   # Дополнительные функции
   features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - navigation.tracking
-    - search.suggest
-    - search.highlight
-    - content.code.copy
+    - navigation.tabs  # Вкладки в навигации
+    - navigation.sections # Секции в меню
+    - navigation.top # Кнопка "наверх"
+    - search.suggest # Подсказки в поиске
+    - search.highlight # Подсветка результатов
+    - content.code.copy # Кнопка копирования кода
 
 # Навигация
 nav:
