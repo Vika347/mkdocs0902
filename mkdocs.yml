@@ -5,14 +5,36 @@ site_author: Родина Виктория
 theme:
   name: material
   language: ru
+
+  # НАСТРОЙКА ЦВЕТОВ
+  palette:
+    # Светлая тема (бело-изумрудная)
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Переключить на темную тему
+
+    # Темная тема
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Переключить на светлую тему
+
+  # Дополнительные функции
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.top
+    - navigation.tracking
     - search.suggest
     - search.highlight
+    - content.code.copy
 
-
+# Навигация
 nav:
   - Главная: index.md
   - Об авторе: about.md
