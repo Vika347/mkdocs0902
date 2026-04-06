@@ -376,7 +376,9 @@ def plot_line(x, y, save_path="plots/line_plot.png"):
     plt.savefig(save_path, dpi=150)
     plt.close()
     return save_path
-    
+```
+ # Тесты:
+```bash
 import os
 import numpy as np
 import pytest
