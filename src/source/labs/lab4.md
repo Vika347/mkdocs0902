@@ -12,7 +12,7 @@
 Заполнить пропуски в коде, исследовать модели, подготовить отчет
 
 ### Код:
-[Открыть ноутбук в Google Colab](https://colab.research.google.com/drive/1MOf-N_PUKxquqlMsXGH09AslP9H9cBwK#scrollTo=ovsDLCkvcwUp)
+[Открыть ноутбук в Google Colab](https://colab.research.google.com/drive/1MOf-N_PUKxquqlMsXGH09AslP9H9cBwK?usp=sharing)
 ### Выполнение работы:
 #### *Пункт №5:*
 **Пошаговый алгоритм:**
